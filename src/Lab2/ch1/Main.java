@@ -9,3 +9,8 @@ public class Main {
         System.out.println("f1 vs f2 ="+ bm.fight());
     }
 }
+//git status
+//git init
+//git status
+//git add .
+//git commit -m "mesaj"

@@ -31,3 +31,4 @@ public class Fighter extends Human{
         return Objects.hash(damagePerAttack);
     }
 }
+

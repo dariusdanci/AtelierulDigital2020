@@ -1,5 +1,6 @@
-class FizzBuzz
-{
+package Lab1.Teme;
+
+public class FizzBuzz {
     public static void main(String args[])
     {
         int n = 100;
@@ -25,4 +26,4 @@ class FizzBuzz
                 System.out.println(i+" ");
         }
     }
-} 
+}
