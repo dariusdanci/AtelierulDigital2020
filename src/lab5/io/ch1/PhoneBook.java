@@ -1,4 +1,4 @@
-package lab5.io;
+package lab5.io.ch1;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

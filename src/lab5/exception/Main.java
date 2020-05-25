@@ -1,6 +1,4 @@
-package lab4.exception;
-
-import java.util.Arrays;
+package lab5.exception;
 
 public class Main {
     public static void main(String[] args) {

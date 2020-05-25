@@ -1,4 +1,4 @@
-package lab4.exception;
+package lab5.exception;
 
 public class SomeClass {
     public void methodUncheckedException(int i){
